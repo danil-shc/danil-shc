@@ -1,40 +1,35 @@
-<h1 align="center">👋 Привет, я Даниил Щербина</h1>
-<h3 align="center">Frontend-разработчик | Верстальщик → JavaScript</h3>
+<h1 align="center">Daniil Shcherbina / Даниил Щербина</h1>
+<h3 align="center">Frontend Developer / Фронтенд-разработчик</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=HTML+%7C+CSS+%7C+JavaScript;Flexbox+%7C+Grid+%7C+БЭМ;Адаптивная+вёрстка+%7C+Pixel+Perfect" alt="Typing SVG" />
-</p>
+## 🛠️ Tech Stack / Технологии
 
-## 🛠️ Мой стек технологий
+**Frontend Development / Фронтенд-разработка:**
+- **HTML5** - Semantic markup, accessibility / Семантическая верстка, доступность
+- **CSS3** - Flexbox, Grid, responsive design / Адаптивная верстка
+- **Methodology / Методология:** BEM / БЭМ
+- **Framework / Фреймворк:** Bootstrap 5.0
+- **Tools / Инструменты:** Git, GitHub, Figma
 
-**Frontend:**
-- **HTML5** - Семантическая верстка, доступность
-- **CSS3** - Flexbox, Grid, анимации, адаптивная верстка
-- **Methodology:** БЭМ
-- **Frameworks:** Bootstrap 5.0
-- **Tools:** Git, GitHub, Figma, Photoshop
-
-**В процессе изучения:**
+**Currently learning / Изучаю:**
 - JavaScript (ES6+)
-- React
+- React.js
 - TypeScript
 
-## 📈 Мои цели на 2024
+## 📈 Current Goals / Текущие цели
 
-- [x] Освоить адаптивную верстку
-- [x] Изучить БЭМ и современный CSS
-- [ ] Углубиться в JavaScript
-- [ ] Изучить React основы
-- [ ] Найти работу Junior Frontend Developer
+- [ ] Deepen JavaScript knowledge / Углубить знания JavaScript
+- [ ] Master React framework / Освоить React
+- [ ] Build portfolio projects / Создать проекты для портфолио
+- [ ] Get Frontend Developer position / Устроиться Frontend-разработчиком
 
-## 📫 Контакты
+## 📫 Connect with me / Связь со мной
 
-- **Telegram:** [@твой_ник](https://t.me/твой_ник)
-- **Email:** твой.email@example.com
-- **Портфолио:** [ссылка на портфолио]
+- **Telegram:** [@your_username](https://t.me/your_username)
+- **Email:** your.email@example.com
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <i>"Code is poetry" / "Код — это поэзия"</i>
 </p>
