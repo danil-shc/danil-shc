@@ -7,11 +7,77 @@
 ## 🛠️ Tech Stack / Технологии
 
 **Frontend Development / Фронтенд-разработка:**
-- **HTML5** - Semantic markup, accessibility / Семантическая верстка, доступность
-- **CSS3** - Flexbox, Grid, responsive design / Адаптивная верстка
-- **Methodology / Методология:** BEM / БЭМ
-- **Framework / Фреймворк:** Bootstrap 5.0
-- **Tools / Инструменты:** Git, GitHub, Figma
+<div class="tech-stack">
+  <div class="tech-card">
+    <div class="tech-title">HTML5</div>
+    <div class="tech-desc">Semantic markup, accessibility / Семантическая верстка, доступность</div>
+  </div>
+  
+  <div class="tech-card">
+    <div class="tech-title">CSS3</div>
+    <div class="tech-desc">Flexbox, Grid, responsive design / Адаптивная верстка</div>
+  </div>
+  
+  <div class="tech-card">
+    <div class="tech-title">BEM / БЭМ</div>
+    <div class="tech-desc">Methodology / Методология</div>
+  </div>
+  
+  <div class="tech-card">
+    <div class="tech-title">Bootstrap 5.0</div>
+    <div class="tech-desc">Framework / Фреймворк</div>
+  </div>
+  
+  <div class="tech-card">
+    <div class="tech-title">Git • GitHub • Figma</div>
+    <div class="tech-desc">Tools / Инструменты</div>
+  </div>
+</div>
+
+<style>
+.tech-stack {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+  margin: 25px 0;
+}
+
+.tech-card {
+  padding: 20px;
+  background-color: #000000;
+  border: 2px solid #000000;
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.tech-card:hover {
+  background-color: #ffffff;
+  transform: translateY(-3px);
+}
+
+.tech-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.tech-desc {
+  font-size: 12px;
+  color: #cccccc;
+  line-height: 1.4;
+}
+
+.tech-card:hover .tech-title {
+  color: #000000;
+}
+
+.tech-card:hover .tech-desc {
+  color: #666666;
+}
+</style>
 
 **Currently learning / Изучаю:**
 - JavaScript (ES6+)
