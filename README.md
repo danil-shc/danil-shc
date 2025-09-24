@@ -7,15 +7,52 @@
 ## 🛠️ Tech Stack / Технологии
 
 **Frontend Development / Фронтенд-разработка:**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">HTML5</div>
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">CSS3</div>
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">BEM</div>
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">BOOTSTRAP 5.0</div>
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">GIT</div>
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">GITHUB</div>
-  <div style="padding: 8px 16px; background: #000; color: #fff; border: 2px solid #000; font-family: Arial; font-size: 14px; font-weight: bold;">FIGMA</div>
+<div class="tech-badges">
+  <div class="tech-row">
+    <div class="tech-badge">HTML5</div>
+    <div class="tech-badge">CSS3</div>
+    <div class="tech-badge">BEM</div>
+    <div class="tech-badge">BOOTSTRAP 5.0</div>
+  </div>
+  
+  <div class="tech-row">
+    <div class="tech-badge">GIT</div>
+    <div class="tech-badge">GITHUB</div>
+    <div class="tech-badge">FIGMA</div>
+  </div>
 </div>
+
+<style>
+.tech-badges {
+  margin: 20px 0;
+}
+
+.tech-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.tech-badge {
+  padding: 8px 16px;
+  background-color: #f5f5f5;
+  border: 2px solid #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #333;
+  text-align: center;
+  min-width: 120px;
+}
+
+.tech-badge:hover {
+  background-color: #333;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+</style>
 
 **Currently learning / Изучаю:**
 - JavaScript (ES6+)
