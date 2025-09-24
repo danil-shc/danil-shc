@@ -24,12 +24,5 @@
 
 ## 📫 Connect with me / Связь со мной
 
-- **Telegram:** [@your_username](https://t.me/your_username)
-- **Email:** your.email@example.com
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-
----
-
-<p align="center">
-  <i>"Code is poetry" / "Код — это поэзия"</i>
-</p>
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DenzScherb)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/denz_r)
