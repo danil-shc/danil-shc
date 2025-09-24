@@ -1,4 +1,7 @@
 <h1 align="center">Daniil Shcherbina / Даниил Щербина</h1>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/9a/73/24/9a7324cc373709fc42ef51d78ff5efb3.gif"  />
+</div>
 <h3 align="center">Frontend Developer / Фронтенд-разработчик</h3>
 
 ## 🛠️ Tech Stack / Технологии
