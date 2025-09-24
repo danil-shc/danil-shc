@@ -19,10 +19,11 @@
 
 ## 📈 Current Goals / Текущие цели
 
-- [ ] Deepen JavaScript knowledge / Углубить знания JavaScript
-- [ ] Master React framework / Освоить React
-- [ ] Build portfolio projects / Создать проекты для портфолио
-- [ ] Get Frontend Developer position / Устроиться Frontend-разработчиком
+- [x] Освоить адаптивную верстку
+- [x] Изучить БЭМ и современный CSS
+- [ ] Углубиться в JavaScript
+- [ ] Изучить React основы
+- [ ] Найти работу Junior Frontend Developer
 
 ## 📫 Connect with me / Связь со мной
 
