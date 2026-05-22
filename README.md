@@ -7,14 +7,13 @@
 ## 🛠️ Tech Stack / Технологии
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Frontend Development / Фронтенд-разработка:**
 
 **Currently learning / Изучаю:**
 - JavaScript (ES6+)
-- React.js
+- Vue.js
 - TypeScript
 
 ## 📈 Current Goals / Текущие цели
@@ -22,8 +21,8 @@
 - [x] Освоить адаптивную верстку
 - [x] Изучить БЭМ и современный CSS
 - [ ] Углубиться в JavaScript
-- [ ] Изучить React основы
-- [ ] Найти работу Junior Frontend Developer
+- [ ] Изучить Vue3 основы
+- [ ] Найти работу Middle Frontend Developer
 
 ## 📫 Connect with me / Связь со мной
 
