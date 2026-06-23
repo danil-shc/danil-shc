@@ -29,5 +29,5 @@
 
 ## 📫 Connect with me / Связь со мной
 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DenzScherb)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Danil_shc)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/denz_r)
